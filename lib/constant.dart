@@ -94,20 +94,6 @@ const primaryLightColor = Color(0xFFf0fffb);
 const textLightColor = Color(0xFF6A727D);
 const lightGreyColor = Color(0xFFF0F0F0);
 
-//Google API key for auto places
-//copied from internet
-// const places_API_key = 'AIzaSyAJUDV0OFr87xCIz-fb9AwirXBl3X1nvIc';
-
-//mukhtiyar's provided key
-// const places_API_key = 'AIzaSyBvzWwukb4Xaci6v7Quk1BmSh-kYz558Q8';
-
-// Zohaib bhai provided key
-// const places_API_key = 'AIzaSyBKZRBquhQ-IZahbLAkRmH1N37RotWSveU';
-
-//Compressed Image's Quality
-// const quality = 20;
-// const kbSize = 100;
-
 class MediaType {
   static String video = "video";
   static String audio = "audio";
